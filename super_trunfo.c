@@ -116,7 +116,7 @@ int main() {
             } else if (pontos_turisticos_carta1 < pontos_turisticos_carta2) {
                 printf("Pontos Túristicos: Carta 02 Venceu! (%s: %d Pontos Túristicos)\n", cidade_carta2, pontos_turisticos_carta2);
             } else {
-                printf("Pontos Túristicos: Empate Venceu!\n");
+                printf("Pontos Túristicos: Empate!\n");
             }
         break;
         case 5:
